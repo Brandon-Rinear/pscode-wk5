@@ -9,7 +9,7 @@ ask for 2 numbers
 add the 2 number together 
 print on the screen the sum of those 2 numbers
 
-//
+// Exercise 1: my answer
 
 num1 = 10;
 num2 = 3;
@@ -30,7 +30,7 @@ if remainder != 0:
 else:
   print('Even')
 
-// Exercise 3: 
+// Exercise 3:
 Write pseudo code that will perform the following.
 
 a) Read in 5 separate numbers.   
@@ -43,6 +43,7 @@ num4 = 246;
 num5 = 97;
 
 b) Calculate the average of the five numbers.
+// Took the numbers from a) and implemented in
 
 count = 5;
 
